@@ -37,3 +37,9 @@ variable "profile"{
 type = string
 default = "terraform"
 }
+
+
+variable "numberof"{
+type = string 
+default = "5"
+}

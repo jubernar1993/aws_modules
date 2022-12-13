@@ -6,3 +6,4 @@ key_name = "Terraform"
 description = "Development team baby"
 region = "us-east-1"
 profile = "terraform"
+numberof = 5 
