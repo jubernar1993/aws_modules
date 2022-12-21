@@ -5,7 +5,7 @@ terraform {
     region = "us-east-1"
   }
 }
-provider "aws"{
-profile = var.profile 
-region = var.region
+provider "aws" {
+  profile = var.profile
+  region  = var.region
 }

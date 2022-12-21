@@ -1,9 +1,9 @@
-ami = "ami-0a572c71bd51de5eb"
-instance_type = "t2.nano"
-instance_name = "testing_instance"
+ami                 = "ami-0a572c71bd51de5eb"
+instance_type       = "t2.nano"
+instance_name       = "testing_instance"
 associate_public_ip = "true"
-key_name = "Terraform"
-description = "Development team baby"
-region = "us-east-1"
-profile = "terraform"
-numberof = 5 
+key_name            = "Terraform"
+description         = "Development team baby"
+region              = "us-east-1"
+profile             = "terraform"
+numberof            = 10
