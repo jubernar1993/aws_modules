@@ -24,7 +24,7 @@ variable "key_name" {
 
 variable "description" {
   type    = string
-  default = "development team"
+  default = "development teams"
 }
 
 
