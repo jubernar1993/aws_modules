@@ -22,7 +22,7 @@ variable "key_name" {
   default = "Terraform"
 }
 
-variable "description" {
+variable "descriptions" {
   type    = string
   default = "development teams"
 }
